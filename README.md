@@ -1,5 +1,7 @@
 # README #
 
+**Note: This is a fork of r-portable-windows containing ggplot2**
+
 ### What is this repository for? ###
 
 This repo contains a portable version of R (normal R installed with no registry modifications -- see instructions below) packaged with an Rprofile.site file downloaded from: [**Rportable**](https://sourceforge.net/projects/rportable/) updated to ensure all libraries are installed locally (in r-portable-windows/library). Realistically this is a one-line file :) so could just be created yourself based on the instructions below (and is what I'd reccomend doing if changing the version of R)
